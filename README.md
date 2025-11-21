@@ -66,8 +66,3 @@ The project follows a full **CRISP-DM lifecycle**:
 2. **Monitor & Update** → Spam patterns evolve, so retraining with fresh data is key.  
 3. **Security Policy Alignment** → Use the model alongside phishing filters and employee awareness training.  
 4. **Balance Precision & Recall** → Tailor thresholds depending on whether **false positives** (legit emails flagged) or **false negatives** (missed spam) are more costly to the business.  
-
----
-
-## 📁 Repository Structure  
-
