@@ -1,4 +1,4 @@
-# 📧 Email Spam Classification: Machine Learning for Smarter Inboxes  
+# 📧 Email Spam Detector: Machine Learning for Smarter Inboxes  
 
 ## 📖 Project Overview  
 This project addresses a **critical challenge in digital communication**: identifying and filtering out spam emails.  
